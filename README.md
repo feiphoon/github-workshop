@@ -1,7 +1,21 @@
-# github-workshop
+---
+layout: default
+title: README
+nav_exclude: true
+published: false
+---
+
+# GitHub for Collaborative Data Science & Engineering in Industry & Academia
+
+## Steps that we need to deal with:
+
+### Not in the tutorial
 
 0. Everyone should sign up for a GitHub account (before the workshop)
 1. 20 or so minutes of basics (Decide about what and who)  "We don't make mistakes, just happy little accidents"
+
+### In the tutorial (included)
+
 2. Split everyone in groups (tables)
 3. Create a repository (one per table). It should have a README, LICENSE, description and gitignore.
 4. Add collaborators
@@ -11,7 +25,11 @@
 8. Everyone create a branch to address their assigned issue
 9. Create a folder and file (come back to give them path instructions)
 10. Commit the new file
-11. Do a compare and open a pull request and link to issue in description
+11.1 Do a compare [and open a pull request and link to issue in description]
+
+### In the tutorial (to be included)
+
+11.2 [Do a compare] and open a pull request and link to issue in description
 11.b Checkpoint/timecheck (How many tables have a pull request)
 12. Assign a reviewer (The person who created the issue)
 13. The reviewer changes branches and learns "find/navigate"
