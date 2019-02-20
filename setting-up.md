@@ -22,11 +22,26 @@ permalink: /setting-up
 * You will collaborate on a single repository, therefore you will need to create **one and only** one: choose one person in your team to do so (but watch out what they are doing)
 * The *chosen one* should now go to their GitHub page (`https://github.com/loginname`) and click on the `Repository` tab. This page lists all your repository -- it may already include some :nerd_face:
 * Create a new repo(sitory)
+
+<kbd>
+  
+![create repo](https://github.com/feiphoon/github-workshop/blob/gh-pages/screenshots/create_repo.png "create repo")
+
+</kbd>
+
 * Your repository will need a name: agree on one! If you are having a creative block, names like *"github-collaborative-workshop"*, or *"AIClub-githib-workshop"* will be amazing, trust us :sweat_smile:
 * Your repository will also need a description: why not *"A collaborative repo"*?
 * Your repository can be *public* (everyone can access it) or *private* (only you and your collaborators will be able to access it). Since early 2019, GitHub allows an unlimited number of private repositories, but don't be shy -- and think of all the good you get from open access code. Time to give some love back?
 * GitHub allows initialising a repository with a README file. Please, do so
 * GitHub allows generating a `.gitignore` (which lists all the files that should not be included on a repo) and a `licence` file. Let's ignore the former but let's include the latter (quite a list, isn't it?)
+* Choose an MIT license to keep it simple. Licenses are very important so next time you create a repo take your time to read the options and choose the one that fit your project best.
+
+<kbd>
+  
+![choose license](https://github.com/feiphoon/github-workshop/blob/gh-pages/screenshots/license.png "choose license")
+
+</kbd>
+
 * Create the repository!
 * Step 1 completed. Give each other a high five :raised_hands:
 
@@ -36,6 +51,13 @@ permalink: /setting-up
 * The repo's owner should now click on the `Setting` tab
 * Look then for adding `Collaborators` (you may be asked to type your password)
 * Add the other members of the team, one by one, using their GitHub username or email
+
+<kbd>
+  
+![add collaborators](https://github.com/feiphoon/github-workshop/blob/gh-pages/screenshots/collaborators.png "Add colaborators")
+
+</kbd>
+
 * Step 2 completed. Time for everyone to roll up their sleeves :muscle:
 
 
