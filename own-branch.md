@@ -24,7 +24,11 @@ permalink: /own-branch
 * Congratulation you create your own branch :tada:
 * Note the button `Branch` again: now no longer report `master` but it has your new branch name: you create and checked it out at the same time!
 
+<kbd>
+  
 ![create branch](https://github.com/feiphoon/github-workshop/blob/gh-pages/screenshots/create_branch.png "Create Branch")
+
+</kbd>
 
 * Step 1 completed. Time of doing some *serious* job here!
 
@@ -33,7 +37,13 @@ permalink: /own-branch
 * Remember we created this branch to deal with an issue we self-assigned? Time to address it!
 * Create a new file and use it to answer the question you have self-assigned. Write a few lines (so we can have some material to work on in the next steps) but remember that the goal is not to win the Costa Book Awards :stuck_out_tongue:
 
+
+<kbd>
+
 ![create file](https://github.com/feiphoon/github-workshop/blob/gh-pages/screenshots/create_file.png "Create File")
+
+
+</kbd>
 
 * Commit with a message/description as done before. Are you in the correct branch, the one with your name?
 * Step 2 completed. Will your literary efforts be enough? 
