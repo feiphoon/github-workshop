@@ -53,7 +53,13 @@ permalink: /own-branch
 * After step 2, your branch will be one commit ahead of `master`. Can you see it?
 * Let's now compare your branch with `master`. Any difference?
 
+<kbd>
+
 ![compare](https://github.com/feiphoon/github-workshop/blob/gh-pages/screenshots/compare.png "Compare")
+
+
+</kbd>
+
 * Does everything look good? Everything there? 
 * Step 3 completed. Time to move on and push these changes to the original repo.  
 
