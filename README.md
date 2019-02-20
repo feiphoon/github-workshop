@@ -31,13 +31,16 @@ If you *were* at our workshop and/or are looking for some light reading on Git &
 8. Everyone create a branch to address their assigned issue.
 9. Create a folder and file (with path instructions)
 10. Commit their new files to their respective branches.
-11. Do a compare (and open a pull request and link to issue in description).
+11. Use compare on your own branch to look at your own changes, and open a pull request. Link to the issue in the pull request description.
 12. Catch-up point/timecheck (how many groups have at least one pull request open).
-13. Assign a teammate to review, e.g. the person who created the issue).
-14. View file diff in the pull request to see what was changed.
-15. The reviewer changes branches and learns "find/navigate".
-16. Make a general comment on the pull request.
-17. Make a comment on a line in the file on the pull request ("Add a single comment").
-18. Click "Resolve conversation".
-19. Merge branch into master.
-20. Delete the merged branch.
+13. Assign a teammate to review your pull request, e.g. the person who created the issue).
+14. Look at the pull request you were assigned to review. View (file diff in the) pull request to see what was changed.
+15. Change to the pull request's branch and learn to find/navigate files.
+16. Make a general comment on the pull request you are reviewing.
+17. Make a comment on any line in the file in the pull request (submit it with "Add a single comment").
+18. Return to your pull request and read any comments left by others on yours. Click "Resolve conversation" on the comments (if everything is alright!)
+19. Merge your own branch into `master`.
+20. Delete your merged branch.
+Reviewing changes
+
+Approving
