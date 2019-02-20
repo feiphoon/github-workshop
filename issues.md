@@ -19,6 +19,9 @@ permalink: /issues
 # Step 1. Creating an issue
 
 * Click on the `Issue` tab. This page lists all the issues, which are used to track todos, bugs, feature requests, and whatever you think fit. When you are opening an issue on a public repo, please look for a code of conduct, or for a bug reporting check list and comply with them  :relaxed: 
+
+![create issue](https://github.com/feiphoon/github-workshop/blob/gh-pages/screenshots/create_issue.png "Create Issue")
+      
 * You are a team, therefore it is good to get to know one another a bit. Therefore, your *feature requests* will be asking (personal?) questions to  other team members
 * Think of a question and use it as a title. Be creative, or use one of the questions below
 * How the other team member should address the question? Describe it in the comment. Look at the examples below but please, no poem, the deal is to learn how to collaborate via GitHub, not to win the Pulitzer :stuck_out_tongue:
@@ -41,6 +44,9 @@ permalink: /issues
 * Select a question you like and assign the issue  to yourself. To avoid having everyone dealing with the same question, **quickly** decide who is going to answer what **before** assigning the issue to yourself :sweat_smile:
 * Great, you just committed to answer the question :nerd_face:
 * Write a nice comment explaining that you are dealing with the issue right now. It is nice knowing that an issue has been assigned to someone, but it is even better knowing that someone is actually working on it!
+
+![assign issue](https://github.com/feiphoon/github-workshop/blob/gh-pages/screenshots/assign_issue.png "Assign Issue")
+
 * Step 2 completed!
 
 
