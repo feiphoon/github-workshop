@@ -31,7 +31,7 @@ The tutorial will deal with the GitHub web interface, therefore there is no need
 	- Don't know anyone? There are no strangers here, only friends you haven't yet met.
 	
 
-## Ready to start?
+## What are we going to do?
 
 The tutorial is divided in five parts: 
 
@@ -41,7 +41,21 @@ The tutorial is divided in five parts:
 4. Working on your own branch
 5. Merging all together
 
-But before delving into it, please remember: **be kind**.
+
+## Ready to start?
+
+Before delving into the tutorial, please remember that **good** collaborations: 
+
+* allow a safe space for constructive and honest discussion, therefore
+* do not blame and shame
+* make room and time for teaching and learning
+* accept that there will be mistakes & mishaps (helping each other is a great way to learn)
+
+Indeed, a **good** collaboration
+
+* is first and foremost about working with and respecting other people
+* is NOT a _"soft"_, optional, skill: it is essential!
+
 
 
 	
