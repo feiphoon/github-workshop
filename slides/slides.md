@@ -82,7 +82,7 @@ Reminders for collaboration:
 ---
 # Github in the Wild +++++
 
-- Today's process - what many people use, from individuals and small teams, to developers & engineers at companies
+- Today's process - a pared-down version of what many people use, from individuals and small teams, to developers & engineers at companies
 
 - Other patterns for collaboration with Git, such as git-flow (a fancier version of what we did today, ), open source and forking
 
