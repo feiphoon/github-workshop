@@ -19,7 +19,7 @@ If you *were* at our workshop and/or are looking for some  recap reading on Git 
 
 0. (Before the event) Sign up for your own Github account here: (https://github.com/join) & charge your laptop.
 1. A welcome & brief introduction to basic Git concepts. (20min)
-2. Everyone splits into groups of 2-4, one group per table. Say hello to your new teamates! (5min)
+2. Everyone splits into groups of 2-4, one group per table. Say hello to your new teammates! (5min)
 
 ### Exercises
 
