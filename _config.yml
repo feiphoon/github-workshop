@@ -1,8 +1,0 @@
-theme: just-the-docs
-
-title: GitHub Collaborative Workshop
-
-markdown:    kramdown
-highlighter: rouge
-permalink: pretty
-
