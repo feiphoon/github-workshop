@@ -6,7 +6,7 @@ page_number: true
 -->
 # Git/Hub for Collaborative DataSci & DataEng
 
-# ![40%](/Users/fei.phoon/Downloads/Octocat/Octocat.png)
+# ![40%](images/octocat.png)
 
 ###### *With the AI Club for Gender Minorities, London*
 ###### *26/02/2019*
