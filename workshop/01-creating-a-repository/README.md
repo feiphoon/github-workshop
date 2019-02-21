@@ -9,7 +9,11 @@
   - a README
   - a LICENSE
 
+<kbd>
+
 ![Create a repo](images/create_repo.png)
+
+</kbd>
 
 ![Choose repo properties](images/repo_properties.png)
 
