@@ -13,6 +13,12 @@ If you missed out on our workshop, but want to see what we did, view our slides 
 
 If you *were* at our workshop and/or are looking for some  recap reading on Git & Github, go [here](DOCS.md).
 
+Spotted a typo, a broken link, a garbled sentence, etc? We hear you're awesome at [logging an issue](https://github.com/feiphoon/github-workshop/issues) ;)
+
+## Credits
+
+Made by @alesssia, @estramcar & @feiphoon.
+
 ## Workshop
 
 ### Setup
