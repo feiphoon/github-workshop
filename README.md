@@ -9,9 +9,9 @@ published: false
 
 Hello! If you're at our workshop right now, please go [here](#Workshop).
 
-If you missed out on our workshop, but want to see what we did, view our slides [here](/slides) and workshop [here](#Workshop).
+If you missed out on our workshop, but want to see what we did, view our slides [here](/slides) and the workshop [here](#Workshop).
 
-If you *were* at our workshop and/or are looking for some light reading on Git & Github, go [here](DOCS.md).
+If you *were* at our workshop and/or are looking for some  recap reading on Git & Github, go [here](DOCS.md).
 
 ## Workshop
 
@@ -58,3 +58,5 @@ If you *were* at our workshop and/or are looking for some light reading on Git &
 
 #### Clean up (everyone)
 20. Delete your merged branch.
+
+:tada::tada::tada::tada::tada:
