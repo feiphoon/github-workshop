@@ -7,14 +7,14 @@
   - public access
   - a .gitignore (pretend this will be a Python project and choose Python)
   - a README
-  - a LICENSE
+  - a LICENSE (MIT is good for now)
 
-![Create a repo](images/create_repo.png)
+![Create a repo](images/create_repo.jpg)
 
-![Choose repo properties](images/repo_properties.png)
+![Choose repo properties](images/repo_properties.jpg)
 
-![Choose a license](images/license.png)
+![Choose a license](images/license.jpg)
 
 4. Now your teammate and new repository owner should add the rest of your groups as collaborators on the repository. Go to the repository settings and add them by Github username.
 
-![Add collaborators](images/collaborators.png)
+![Add collaborators](images/collaborators.jpg)
