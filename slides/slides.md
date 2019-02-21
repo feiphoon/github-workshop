@@ -32,14 +32,13 @@ page_number: true
 **Git & Github are only tools to help us focus on contribution and discussion.**
 
 ---
-# Git & Github
+# Git vs Github
 
 - Git != Github
 
 - Github: a web application that allows people to store and collaborate on a project. Today we'll learn to use this!
 
 - Git: the underlying magic/the engine under the hood, that manages contribution history and order.
-
 
 ---
 # Basic Git Concepts
@@ -69,13 +68,13 @@ Reminders for collaboration:
 
 ---
 
-# To recap:
+# A Recap +++++
 
 - Git concepts
 - High-level workshop tasks by sections
 
 ---
-# Github in the wild
+# Github in the Wild +++++
 
 - Today's process - what many people use, from individuals and small teams, to developers & engineers at companies
 
@@ -104,3 +103,9 @@ Reminders for collaboration:
 - exploring Github further & using it for a real project
 - coming to our next session to learn to use Github Desktop and Git from command line
 - eventually learning to contribute to open source e.g. Pandas
+---
+
+# Question Time
+---
+
+# Thank you! +++++
