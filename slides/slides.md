@@ -59,6 +59,8 @@ page_number: true
 ---
 # Workshop Time
 
+See: https://github.com/feiphoon/github-workshop/
+
 Reminders for collaboration:
 
 - Be kind (you can still be firm and opinionated though!)
