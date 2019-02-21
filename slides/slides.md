@@ -6,27 +6,31 @@ page_number: true
 -->
 # Git/Hub for Collaborative DataSci & DataEng
 
-![40%](images/octocat.png)
+![50%](images/octocat.png)
 
 ###### *With the AI Club for Gender Minorities, London*
 ###### *26/02/2019*
 
 ---
 *Actually, you're here to learn:*
-# ~~Git/Hub for CollaborativeDataSci & DataEng~~
+#### ~~Git/Hub for CollaborativeDataSci & DataEng~~
 # Good Collaboration in Nearly Anything File-Based, using Github
 
-###### By Alessia Visconti, Ester Ramos & Fei Phoon
+###### *By Alessia Visconti, Ester Ramos & Fei Phoon*
 
 ---
 # Good collaboration...
 
-- allows a safe space for constructive and honest discussion.
+- makes a safe space for constructive and honest discussion.
 - makes room and time for teaching and learning.
-- accepts that there will be mistakes & mishaps - and that we'll help each other fix and learn from them.
+- accepts mistakes & mishaps - and that we'll help each other fix and learn from them.
 - does not blame and shame.
 - gives credit and recognition where it is due.
 - is first and foremost about working with and respecting other people.
+
+---
+# Good collaboration...
+
 - is NOT a "soft", optional skill for engineers - it's essential!
 
 **Git & Github are only tools to help us focus on contribution and discussion.**
@@ -34,24 +38,24 @@ page_number: true
 ---
 # Git vs Github
 
-- Git != Github
+- **Git != Github**
 
-- Github: a web application that allows people to store and collaborate on a project. Today we'll learn to use this!
+- **Github:** a web application that allows people to store and collaborate on a project. Today we'll learn to use this!
 
-- Git: the underlying magic/the engine under the hood, that manages contribution history and order.
+- **Git:** the underlying magic/the engine under the hood, that manages contribution history and order.
 
 ---
 # Basic Git Concepts
 
 1. **Repository:** a project.
 2. **Branch:** a collection of changes.
-3. **Master:** the "default" branch, that is the most recent, fully-approved version of the project.
-4. **Commit:** a saved change on a branch. So branches are groups of changes, hopefully with a common theme.
+3. **Master:** the "default" branch, also the most recent, fully-approved version of the project.
+4. **Commit:** a saved change on a branch. So branches are groups of changes with a common objective.
 5. **Pull request (PR)**: a request to add your branch of changes to `master`.
 6. **Merge**: the action that accepts your branch into the master branch.
 
 ---
-# Today's learning objectives
+# Today's learning objectives +++++
 
 - Use these basic Git concepts on a project, using the Github web UI.
 
@@ -63,9 +67,9 @@ See: https://github.com/feiphoon/github-workshop/
 
 Reminders for collaboration:
 
-- Be kind (you can still be firm and opinionated though!)
+- Be kind (you can still be firm and opinionated!)
 - Leave constructive comments
-- If you feel an online conversation is getting out of control, return to Meat Space :meat_on_bone: and retry the discussion in person.
+- If you feel an online conversation is getting out of control, retry the discussion in person.
 - If you're lost, ask for help! There are no stupid questions, only lost people who are feeling sad that they didn't ask for help sooner.
 
 ---
@@ -82,6 +86,8 @@ Reminders for collaboration:
 
 - Other patterns for collaboration with Git, such as git-flow (a fancier version of what we did today, ), open source and forking
 
+---
+# Github in the Wild +++++
 
 - Examples of non-code projects on Github:
   - A crowdsourced travel itinerary: https://github.com/dylanegan/travel
