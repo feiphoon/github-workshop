@@ -15,6 +15,6 @@
 
 ![Choose a license](images/license.jpg)
 
-4. Now your teammate and new repository owner should add the rest of your groups as collaborators on the repository. Go to the repository settings and add them by Github username.
+4. Now the new repository owner should add the rest of your teammates as collaborators on the repository. Go to the repository settings and add them by Github username. This will email everyone an invitation to collaborate - accept it.
 
 ![Add collaborators](images/collaborators.jpg)
