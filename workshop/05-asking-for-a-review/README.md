@@ -2,11 +2,11 @@
 
 11. Check the changes you have made in your own branch and make sure you have done everything you wanted.
 
-![compare](images/compare.jpg)
+![Compare changes](images/compare.jpg)
 
 Now open a pull request and add a comment linking to the issue in the pull request description.
 
-Don't forget to add a person from your group to review the pull request.
+Then use "Request a review" to add a teammate to examine your changes.
 
 ![create pull request](images/create_pull_request.jpg)
 
