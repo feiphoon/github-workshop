@@ -36,33 +36,32 @@ Made by @alesssia, @estramcar & @feiphoon.
 #### Making commits (everyone)
 5. Write your name in your group's repository README and commit it directly to `master`.
 
-#### Creating issues (everone)
+#### Creating issues (everyone)
 6. Create an issue based on a question (from a provided list).
 
 #### Responding to issues (everyone)
-7. Pick an issue to resolve, by assign it to yourself and leave a nice comment telling others you're gonna own it.
+7. Pick an issue to resolve, by assigning it to yourself and leaving a nice comment telling others you'll own it.
 8. Create a branch to address your assigned issue.
 9. Create a folder and file (with path instructions)
 10. Commit your new file to your branch.
 
 #### Asking for a review (everyone)
 11. Use compare on your own branch to look at your own changes, and open a pull request. Link to the issue in the pull request description.
-12. Catch-up point/timecheck (how many groups have at least one pull request open).
+12. Catch-up point/timecheck (how many groups have at least one pull request open, 5min).
 
 #### Reviewing changes (everyone)
-13. Assign a teammate to review your pull request, e.g. the person who created the issue).
-14. Look at the pull request you were assigned to review. View (file diff in the) pull request to see what was changed.
+13. Look at the pull request you were assigned to review. View the file diff in the pull request to see what was changed.
+14. Make a comment on any line in the file in the pull request (submit it with "Add a single comment").
 15. Change to the pull request's branch and learn to find/navigate files.
 16. Make a general comment on the pull request you are reviewing.
-17. Make a comment on any line in the file in the pull request (submit it with "Add a single comment").
 
 #### Approving changes (everyone)
-18. Return to your pull request and read any comments left by others on yours. Click "Resolve conversation" on the comments (if everything is alright!)
+17. Return to your pull request and read any comments left by others on yours. Click "Resolve conversation" on the comments (if everything is alright!)
 
 #### Merging changes (everyone)
-19. Merge your own branch into `master`.
+18. Merge your own branch into `master`.
 
 #### Clean up (everyone)
-20. Delete your merged branch.
+19. Delete your merged branch.
 
 :tada::tada::tada::tada::tada:
