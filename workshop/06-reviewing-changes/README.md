@@ -1,4 +1,4 @@
-# Conducting a review (on someone else's PR) & Accepting a review (on your own PR)
+# Conducting a review (on someone else's PR)
 
 13. Look at the pull request you were assigned to review. View the file diff to see what was changed.
 
@@ -22,10 +22,3 @@ Add a general comment and request any changes you think are needed.
 17. Approve the pull request when you are happy with the changes made.
 
 ![approve pull request](images/approve_pull_request.png)
-
-## Accepting a review
-18. Return to your pull request and read any comments left by others on yours.
-If no further changes are needed, click "Resolve conversation" on the comments
-to close them.
-
-![Resolve a conversation](images/resolve_conversation.jpg)
