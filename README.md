@@ -40,14 +40,14 @@ Made by @alesssia, @estramcar & @feiphoon.
 6. Create an issue based on a question (from a provided list).
 
 #### Responding to issues (everyone)
-7. Pick an issue to resolve, by assign it to yourself and leave a nice comment telling others you're gonna own it.
+7. Pick an issue to resolve, by assigning it to yourself and leaving a nice comment telling others you'll own it.
 8. Create a branch to address your assigned issue.
 9. Create a folder and file (with path instructions)
 10. Commit your new file to your branch.
 
 #### Asking for a review (everyone)
 11. Use compare on your own branch to look at your own changes, and open a pull request. Link to the issue in the pull request description.
-12. Catch-up point/timecheck (how many groups have at least one pull request open).
+12. Catch-up point/timecheck (how many groups have at least one pull request open, 5min).
 
 #### Reviewing changes (everyone)
 13. Assign a teammate to review your pull request, e.g. the person who created the issue).
