@@ -63,5 +63,6 @@ Made by @alesssia, @estramcar & @feiphoon.
 
 #### Clean up (everyone)
 19. Delete your merged branch.
+20. Close the issue that your pull request resolved.
 
 :tada::tada::tada::tada::tada:
