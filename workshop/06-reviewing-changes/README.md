@@ -19,7 +19,7 @@ Add a general comment and request any changes you think are needed.
 
 ![review pull request](images/submit_review.png)
 
-Approve the pull request when you are happy with the changes made.
+17. Approve the pull request when you are happy with the changes made.
 
 ![approve pull request](images/approve_pull_request.png)
 
