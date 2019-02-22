@@ -55,7 +55,7 @@ Made by @alesssia, @estramcar & @feiphoon.
 15. Change to the pull request's branch and learn to find/navigate files.
 16. Make a general comment on the pull request you are reviewing.
 
-#### [Approving changes (everyone)](/workshop/07-approving-changes)
+#### [Accepting a review (everyone)](/workshop/07-accepting-review)
 17. Return to your pull request and read any comments left by others on yours. Click "Resolve conversation" on the comments (if everything is alright!)
 
 #### [Merging changes (everyone)](/workshop/08-merging-changes)
