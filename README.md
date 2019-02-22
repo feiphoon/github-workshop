@@ -36,7 +36,7 @@ Made by @alesssia, @estramcar & @feiphoon.
 #### Making commits (everyone)
 5. Write your name in your group's repository README and commit it directly to `master`.
 
-#### Creating issues (everone)
+#### Creating issues (everyone)
 6. Create an issue based on a question (from a provided list).
 
 #### Responding to issues (everyone)
