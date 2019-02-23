@@ -54,15 +54,16 @@ Made by @alesssia, @estramcar & @feiphoon.
 14. Make a comment on any line in the file in the pull request (submit it with "Add a single comment").
 15. Change to the pull request's branch and learn to find/navigate files.
 16. Make a general comment on the pull request you are reviewing.
+17. Approve the pull request.
 
-#### Approving changes (everyone)
-17. Return to your pull request and read any comments left by others on yours. Click "Resolve conversation" on the comments (if everything is alright!)
+#### Accepting a review (everyone)
+18. Return to your pull request and read any comments left by others on yours. Click "Resolve conversation" on the comments (if everything is alright!)
 
 #### Merging changes (everyone)
-18. Merge your own branch into `master`.
+19. Merge your own branch into `master`.
 
 #### Clean up (everyone)
-19. Delete your merged branch.
-20. Close the issue that your pull request resolved.
+20. Delete your merged branch.
+21. Close the issue that your pull request resolved.
 
 :tada::tada::tada::tada::tada:
