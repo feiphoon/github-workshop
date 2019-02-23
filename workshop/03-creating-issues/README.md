@@ -9,8 +9,9 @@
 
 ### Examples 
 
+* What is your favourite colour?
+* What is your favourite animal?
 * What is your favourite food? 
-* Where were you born? 
 * What is your professional/education background?
 * Why did you join this workshop?
 
