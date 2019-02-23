@@ -39,7 +39,7 @@ Made by @alesssia, @estramcar & @feiphoon.
 #### [Creating issues (everyone)](/workshop/03-creating-issues)
 6. Create an issue based on a question (from a provided list).
 
-#### [Responding to issues (everyone)](/workshop/04-responding-to-issues)
+#### [Responding to issues (everyone)](/workshop/04-responding-to-issue)
 7. Pick an issue to resolve, by assigning it to yourself and leaving a nice comment telling others you'll own it.
 8. Create a branch to address your assigned issue.
 9. Create a folder and file (with path instructions)
