@@ -29,6 +29,8 @@ Made by @alesssia, @estramcar & @feiphoon.
 
 ### Exercises
 
+Here are today's steps to a good collaboration process, and the tasks for each one. Click on the titles to view the instructions.
+
 #### [Creating a repository (one person)](/workshop/01-creating-a-repository)
 3. Each group should pick one teammate to create a repository in Github. It should have a README, LICENSE, description and `.gitignore`.
 4. The repository owner should add their teammates as collaborators on the repository.
