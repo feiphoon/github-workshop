@@ -1,10 +1,3 @@
----
-layout: default
-title: README
-nav_exclude: true
-published: false
----
-
 # GitHub for Better Collaboration in Data Science & Engineering
 
 Hello! If you're at our workshop right now, please go [here](#Workshop).
