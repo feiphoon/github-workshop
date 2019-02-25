@@ -12,6 +12,9 @@ page_number: true
 ###### *26/02/2019*
 
 ---
+For Alessia, if you need a slide or two?
+---
+
 *Actually, you're here to learn:*
 #### ~~Git/Hub for CollaborativeDataSci & DataEng~~
 # Good Collaboration in Nearly Anything File-Based, using Github
