@@ -12,5 +12,5 @@
 
 ![Create file](create_file.jpg)
 
-10. Commit your new file to your branch.
+10. Commit your new file to **your** branch (not `master`!).
 
