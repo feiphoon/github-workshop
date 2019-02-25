@@ -9,6 +9,7 @@ page_number: true
 ![50%](images/octocat.png)
 
 ###### *With the AI Club for Gender Minorities, London*
+###### *By Alessia Visconti, Ester Ramos & Fei Phoon*
 ###### *26/02/2019*
 
 ---
@@ -18,8 +19,6 @@ For Alessia, if you need a slide or two?
 *Actually, you're here to learn:*
 #### ~~Git/Hub for Collaborative DataSci & DataEng~~
 # Good Collaboration in Nearly Anything File-Based, using Github
-
-###### *By Alessia Visconti, Ester Ramos & Fei Phoon*
 
 ---
 # Good collaboration...
@@ -45,7 +44,7 @@ For Alessia, if you need a slide or two?
 
 - **Github:** a web application that allows people to store and collaborate on a project. Today we'll learn to use this!
 
-- **Git:** the underlying magic/the engine under the hood, that manages contribution history and order.
+- **Git:** a version control system; the underlying magic/the engine under the hood, that manages contribution history and order.
 
 ---
 # Basic Git Concepts
@@ -60,8 +59,8 @@ For Alessia, if you need a slide or two?
 ---
 # Today's learning objectives +++++
 
-- Use these basic Git concepts on a project, using the Github web UI.
-
+- Learn a universally-accepted collaboration workflow
+- Use basic Git concepts on a project, using the Github web UI.
 
 ---
 # Workshop Time
@@ -73,21 +72,31 @@ Reminders for collaboration:
 - Be kind (you can still be firm and opinionated!)
 - Leave constructive comments
 - If you feel an online conversation is getting out of control, retry the discussion in person.
-- If you're lost, ask for help! There are no stupid questions, only lost people who are feeling sad that they didn't ask for help sooner.
+- If you're lost, ask for help! There are no stupid questions, only lost people feeling sad that they didn't ask for help sooner.
 
 ---
+# A Recap
 
-# A Recap +++++
+Today, you:
 
-- Git concepts
-- High-level workshop tasks by sections
+- created a repository
+- learned to make commits (to master, the NAUGHTY way!)
+- logged an issue
+- responded to an issue
+- asked for a review
+- reviewed changes
+- accepted a review
+- merged or confirmed contributing your changes
+- tidied up!
 
 ---
 # Github in the Wild +++++
 
 - Today's process - a pared-down version of what many people use, from individuals and small teams, to developers & engineers at companies
 
-- Other patterns for collaboration with Git, such as git-flow (a fancier version of what we did today, ), open source and forking
+- Other patterns for collaboration with Git:
+  - git-flow - fancier version of what we did today, designed especially to manage releases e.g. `your-repo v1.7`
+  - forking - especially for open source or community-supported projects
 
 ---
 # Github in the Wild +++++
