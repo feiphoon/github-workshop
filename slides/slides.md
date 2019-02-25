@@ -16,7 +16,7 @@ For Alessia, if you need a slide or two?
 ---
 
 *Actually, you're here to learn:*
-#### ~~Git/Hub for CollaborativeDataSci & DataEng~~
+#### ~~Git/Hub for Collaborative DataSci & DataEng~~
 # Good Collaboration in Nearly Anything File-Based, using Github
 
 ###### *By Alessia Visconti, Ester Ramos & Fei Phoon*
