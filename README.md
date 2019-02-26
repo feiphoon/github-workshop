@@ -10,7 +10,7 @@ Spotted a typo, a broken link, a garbled sentence, etc? We hear you're awesome a
 
 ## Credits
 
-Made by @alesssia, @estramcar & @feiphoon.
+Made by [@alesssia](https://github.com/alesssia), [@estramcar](https://github.com/estramcar) & [@feiphoon](https://github.com/feiphoon).
 
 ## Workshop
 
