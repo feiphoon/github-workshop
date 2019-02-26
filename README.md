@@ -1,10 +1,3 @@
----
-layout: default
-title: README
-nav_exclude: true
-published: false
----
-
 # GitHub for Better Collaboration in Data Science & Engineering
 
 Hello! If you're at our workshop right now, please go [here](#Workshop).
@@ -13,7 +6,7 @@ If you missed out on our workshop, but want to see what we did, view our slides 
 
 If you *were* at our workshop and/or are looking for some  recap reading on Git & Github, go [here](DOCS.md).
 
-Spotted a typo, a broken link, a garbled sentence, etc? We hear you're awesome at [logging an issue](https://github.com/feiphoon/github-workshop/issues) ;)
+Spotted a typo, a broken link, a garbled sentence, etc? We hear you're awesome at [logging an issue](https://github.com/feiphoon/github-workshop/issues/new) ;)
 
 ## Credits
 
@@ -28,6 +21,8 @@ Made by @alesssia, @estramcar & @feiphoon.
 2. Everyone splits into groups of 2-4, one group per table. Say hello to your new teammates! (5min)
 
 ### Exercises
+
+Here are today's steps to a good collaboration process, and the tasks for each one. Click on the titles to view the instructions.
 
 #### [Creating a repository (one person)](/workshop/01-creating-a-repository)
 3. Each group should pick one teammate to create a repository in Github. It should have a README, LICENSE, description and `.gitignore`.
