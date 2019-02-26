@@ -13,7 +13,12 @@ page_number: true
 ###### *26/02/2019*
 
 ---
-##### For Alessia, if you need a slide or two?
+# Why are we here?
+
+- Data manipulation & analysis does not happen overnight nor in isolation
+- Everyone is accountable for whatever they do (this is what academics call *Reproducibility*)
+- You still collaborate with your past and future self 
+
 ---
 
 *Actually, you're here to learn:*
