@@ -12,5 +12,5 @@
 
 ![Create file](create_file.jpg)
 
-10. Commit your new file to **your** branch (not `master`!).
+10. Commit your new file to **your** branch (not `master`!). You can add a meaningful commit message instead of the default this time, e.g. "Adding my favourite colour".
 
