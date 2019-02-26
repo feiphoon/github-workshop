@@ -13,15 +13,17 @@ page_number: true
 ###### *26/02/2019*
 
 ---
-For Alessia, if you need a slide or two?
+##### For Alessia, if you need a slide or two?
 ---
 
 *Actually, you're here to learn:*
+
 #### ~~Git/Hub for Collaborative DataSci & DataEng~~
+
 # Good Collaboration in Nearly Anything File-Based, using GitHub
 
 ---
-# Good collaboration...
+## Good collaboration...
 
 - makes a safe space for constructive and honest discussion.
 - makes room and time for teaching and learning.
@@ -31,14 +33,15 @@ For Alessia, if you need a slide or two?
 - is first and foremost about working with and respecting other people.
 
 ---
-# Good collaboration...
+## Good collaboration...
 
-- is NOT a "soft", optional skill for engineers - it's essential!
+- is NOT an optional "soft" skill for engineers - it's essential!
 
-**Git & GitHub are only tools to help us focus on contribution and discussion.**
+
+### **Git & GitHub are only tools to help us focus on tracking contribution and discussion.**
 
 ---
-# Git vs GitHub
+## Git vs GitHub
 
 - **Git != GitHub**
 
@@ -47,7 +50,7 @@ For Alessia, if you need a slide or two?
 - **Git:** a version control system; the underlying magic/the engine under the hood, that manages contribution history and order.
 
 ---
-# Basic Git Concepts
+## Key Git Concepts
 
 1. **Repository:** a project.
 2. **Branch:** a collection of changes.
@@ -57,30 +60,28 @@ For Alessia, if you need a slide or two?
 6. **Merge**: the action that accepts your branch into the master branch.
 
 ---
-# Today's learning objectives +++++
+## Today's learning objectives
 
 - Learn a universally-accepted collaboration workflow
-- Use basic Git concepts on a project, using the GitHub web UI.
+- Use key Git concepts on a project, using the GitHub web UI.
 
 ---
-# Workshop Time
+## Workshop Time
 
 See: https://github.com/feiphoon/github-workshop/
 
 Reminders for collaboration:
 
-- Be kind (you can still be firm and opinionated!)
+- Be kind (you can still be firm & opinionated!)
 - Leave constructive comments
-- If you feel an online conversation is getting out of control, retry the discussion in person.
-- If you're lost, ask for help! There are no stupid questions, only lost people feeling sad that they didn't ask for help sooner.
+- If you feel an online conversation isn't working out, retry the discussion in person.
+- If you're lost, ask for help! There are no silly questions, only lost people feeling sad that they didn't ask for help sooner.
 
 ---
-# A Recap
-
-Today, you:
+## Workshop Recap
 
 - created a repository
-- learned to make commits (to master, the NAUGHTY way!)
+- learned to make commits
 - logged an issue
 - responded to an issue
 - asked for a review
@@ -90,16 +91,16 @@ Today, you:
 - tidied up!
 
 ---
-# Git in the Wild
+## Git in the Wild
 
-- Today's process - a pared-down version of what many people use, from individuals and small teams, to developers & engineers at companies
+- Today's exercise: a pared-down version of what many code contributors use, from individuals & small teams on hobby projects, to developers & engineers on large repositories at work.
 
-- Other patterns for collaboration with Git:
-  - git-flow - fancier version of what we did today, designed especially to manage releases e.g. `your-repo v1.7`
-  - forking - especially for open source or community-supported projects
+- Other variations for Git collaboration:
+  - **git-flow** - fancier version of what we did today, designed especially to manage releases e.g. `release v1.7`
+  - **forking** - especially for open source or community-supported projects
 
 ---
-# Git & GitHub
+## Git the Party Started
 
 - Examples of non-code projects on GitHub:
   - A crowdsourced travel itinerary: https://github.com/dylanegan/travel
@@ -108,19 +109,23 @@ Today, you:
 - Open source libraries with collaborators all over the world, e.g. https://python-sprints.github.io/
 
 
-- Other interfaces for Git - workflow preferences: Bitbucket, Gitlab, GitHub Desktop, Git command line, code editors (Atom/Sublime/PyCharm)
-
-
-- GitHub web UI renders Markdown and CSV files very nicely
-- Notebooks & file diffs: Jupyter notebooks vs R Markdown
 ---
+## Other Interfaces for Git
 
-# Your future lies in:
+This is down to your workflow preferences:
+- Bitbucket
+- Gitlab
+- GitHub Desktop
+- Git command line
+- Git integration in code editors & IDEs (Atom/Sublime/PyCharm)
 
-- finishing these exercises with your teammates (if you haven't already!)
-- starring this repository (https://github.com/feiphoon/github-workshop) for reference - we've added some light recap reading
+---
+## Your Future Lies In:
+
+- finishing these exercises with your teammates
+- starring the workshop repo for reference - check back for some light recap reading
 - looking at the history of the workshop repository - we collaborated remotely to create it!
-- exploring GitHub further & using it for a real project
+- exploring GitHub further by using it for a project
 - coming to our next session to learn to use GitHub Desktop and Git from command line
 - eventually learning to contribute to open source e.g. Pandas
 ---
@@ -128,4 +133,4 @@ Today, you:
 # Question Time
 ---
 
-# Thank you! +++++
+# Thank you!
