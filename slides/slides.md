@@ -13,11 +13,11 @@ page_number: true
 ###### *26/02/2019*
 
 ---
-# Why are we here?
+## Why Are We Here?
 
 - Data manipulation & analysis does not happen overnight nor in isolation
 - Everyone is accountable for whatever they do (this is what academics call *Reproducibility*)
-- You still collaborate with your past and future self 
+- You still collaborate with your past and future self
 
 ---
 
