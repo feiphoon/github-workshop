@@ -63,9 +63,12 @@ Here are today's steps to a good collaboration process, and the tasks for each o
 
 
 
-
-| **Exercises**                                                                                                         |
+| **Preparation**                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------|
+| :memo: 0. (Before the event) Sign up for your own Github account here: (https://github.com/join) & charge your laptop.|
+| :speech_balloon: 1. A welcome & brief introduction to good collaboration & key Git concepts.                          |
+| :wave: 2. Everyone splits into groups of 2-4, one group per table. Say hello to your new teammates!                   |
+| **Exercises**                                                                                                         |
 | **[Creating a repository (one person)](/workshop/01-creating-a-repository)**                                          |
 | :link: [3. Creating a repository](/workshop/01-creating-a-repository.md#L3)                                           |
 | :link: [4. Adding collaborators](/workshop/01-creating-a-repository.md#L18)                                           |
@@ -80,7 +83,7 @@ Here are today's steps to a good collaboration process, and the tasks for each o
 | :link: [10. Committing to your branch](/workshop/04-responding-to-issues.md#L15)                                      |
 | **[Asking for a review (everyone)](/workshop/05-asking-for-a-review)**                                                |
 | :link: [11. Comparing changes and opening a pull request](/workshop/05-asking-for-a-review.md#L3)                     |
-| :coffee: 12. Waiting for everyone to catch up/Catch-up point/timecheck(each group has at least one pull request open) |
+| :coffee: 12. Waiting for everyone to catch up (each group should have at least one pull request open)                 |
 | **[Reviewing changes (everyone)](/workshop/06-reviewing-changes)**                                                    |
 | :link: [13. Reviewing another person's pull request](/workshop/06-reviewing-changes.md#L3)                            |
 | :link: [14. Commenting on a line in a pull request](/workshop/06-reviewing-changes.md#L8)                             |
