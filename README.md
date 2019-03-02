@@ -61,10 +61,9 @@ Here are today's steps to a good collaboration process, and the tasks for each o
 20. Deleting a merged branch
 21. Closing an issue
 
-
-
-| **Preparation**                                                                                                       |
+| **Workshop**                                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------------|
+| **Preparation**                                                                                                       |
 | :memo: 0. (Before the event) Sign up for your own Github account here: (https://github.com/join) & charge your laptop.|
 | :speech_balloon: 1. A welcome & brief introduction to good collaboration & key Git concepts.                          |
 | :wave: 2. Everyone splits into groups of 2-4, one group per table. Say hello to your new teammates!                   |
