@@ -1,12 +1,12 @@
 # GitHub for Better Collaboration in Data Science & Engineering
 
-Hello! If you're at our workshop right now, please go [here](#Workshop).
+- Hello! If you're at our workshop right now, please go [here](#Workshop).
 
-If you missed out on our workshop, but want to see what we did, view our slides [here](/slides) and the workshop [here](#Workshop).
+- If you missed out on our workshop, but want to see what we did, view our slides [here](/slides) and the workshop [here](#Workshop).
 
-If you *were* at our workshop and/or are looking for some  recap reading on Git & Github, go [here](DOCS.md).
+- If you *were* at our workshop and/or are looking for some  recap reading on Git & Github, go [here](DOCS.md).
 
-Spotted a typo, a broken link, a garbled sentence, etc? We hear you're awesome at [logging an issue](https://github.com/feiphoon/github-workshop/issues/new) ;)
+- Spotted a typo, a broken link, a garbled sentence, etc? We hear you're awesome at [logging an issue](https://github.com/feiphoon/github-workshop/issues/new) ;)
 
 ## Credits
 
