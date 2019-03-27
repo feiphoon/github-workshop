@@ -6,11 +6,10 @@
 
 8. Create a branch to address your assigned issue.
 
-![Create branch](create_branch.jpg)
+![Create branch](images/create_branch.jpg)
 
 9. Create a folder and file (with path instructions)
 
-![Create file](create_file.jpg)
+![Create file](images/create_file.jpg)
 
 10. Commit your new file to **your** branch (not `master`!). You can add a meaningful commit message instead of the default this time, e.g. "Adding my favourite colour".
-
