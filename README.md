@@ -23,8 +23,8 @@ Made by [@alesssia](https://github.com/alesssia), [@estramcar](https://github.co
 | :wave: 2. Everyone splits into groups of 2-4, one group per table. Say hello to your new teammates!                   |
 | **Exercises**                                                                                                         |
 | **[Creating a repository (one person)](/workshop/01-creating-a-repository)**                                          |
-| :link: [3. Creating a repository](/workshop/01-creating-a-repository.md#L3)                                           |
-| :link: [4. Adding collaborators](/workshop/01-creating-a-repository.md#L18)                                           |
+| 3. Creating a repository                                                                                              |
+| 4. Adding collaborators                                                                                               |
 | **[Making commits (everyone)](/workshop/02-making-commits)**                                                          |
 | :link: [5. Making your first commit](/workshop/02-making-commits.md#L3)                                               |
 | **[Creating issues (everyone)](/workshop/03-creating-issues)**                                                        |
